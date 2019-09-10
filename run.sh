@@ -1,1 +1,1 @@
-FLASK_APP=pet_pals/app.py flask run
+FLASK_APP=jampaydavousi-plotly-challenge/app.py flask run
